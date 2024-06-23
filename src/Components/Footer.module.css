@@ -1,0 +1,12 @@
+.footer {
+  color: #333;
+  background: rgb(124, 93, 36);
+  padding: 10px;
+  text-align: center;
+}
+
+.img {
+  width: 70px;
+  margin: auto;
+  padding: 5px;
+}
